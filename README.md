@@ -1,1 +1,6 @@
-# Time_Series_Analysis_of_TESLA_Stock_Price_main
+# Time Series Analysis of TESLA Stock Price | Self Project                                                                                             
+
+NAME- SACHIN GUPTA
+
+
+
